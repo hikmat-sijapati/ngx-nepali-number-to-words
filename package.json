@@ -1,0 +1,35 @@
+{
+  "name": "ngx-nepali-number-to-words",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hikmat-sijapati/ngx-nepali-number-to-words.git"
+  },
+  "author": {
+    "name": "Hikmat Sijapati",
+    "email": "hikmatsijapati2014@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "nepali",
+    "number2words",
+    "numbertowords",
+    "towords",
+    "words",
+    "ng-number2words",
+    "ngx-number2words",
+    "nepali-number2words",
+    "ng-nepali-number2words",
+    "angular8",
+    "ngx",
+    "ng8"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hikmat-sijapati/ngx-nepali-number-to-words.git/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.1.1",
+    "@angular/core": "^8.1.1"
+  }
+}
