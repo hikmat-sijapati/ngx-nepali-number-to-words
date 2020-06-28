@@ -50,7 +50,7 @@ class AppComponent implements OnInit {
 
     //To display words as Nepali Money just pass format parameter as money
     console.log(this.NgxNepaliNumberToWordsService.toWords(10025, 'money')); //Output: दश हजार पच्चीस रूपैयाँ
-    console.log(this.NgxNepaliNumberToWordsService.toWords(110263.23), 'money');//Output: एक लाख दश हजार दुई सय त्रिसट्ठी रूपैयाँ दुई तीन पैसा
+    console.log(this.NgxNepaliNumberToWordsService.toWords(110263.23, 'money'));//Output: एक लाख दश हजार दुई सय त्रिसट्ठी रूपैयाँ दुई तीन पैसा
 
     //For Negative number
     console.log(this.NgxNepaliNumberToWordsService.toWords(-1234567));//Output: माइनस बाह्र लाख चौंतीस हजार पाँच सय सर्सठ्ठी
